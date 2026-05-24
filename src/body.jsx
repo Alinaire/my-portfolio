@@ -518,6 +518,15 @@ export default function Body() {
       </section>
 
       <section id="about" className="mx-auto max-w-7xl px-6 py-20 md:px-10 lg:px-12 lg:py-24">
+        <div className="max-w-3xl">
+          <p className="text-xs font-semibold uppercase tracking-[0.35em] text-[var(--muted)]">
+            About
+          </p>
+          <h2 className="mt-4 mb-4 font-poppins text-3xl font-semibold tracking-tight text-[var(--text)] sm:text-4xl">
+            I focus on building products that are clean, accessible, and user-centered.
+          </h2>
+        </div>
+
         <div className="grid gap-6 lg:grid-cols-[1.05fr_0.95fr]">
           <div className="flex flex-col gap-6">
             <Card className="relative overflow-hidden">
