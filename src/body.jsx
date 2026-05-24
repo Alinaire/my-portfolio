@@ -7,6 +7,7 @@ import {
   Lock,
   Linkedin,
   Mail,
+  PhoneCall,
   Sparkles,
 } from 'lucide-react';
 
@@ -166,6 +167,16 @@ const contactLinks = [
     label: 'LinkedIn',
     href: 'https://www.linkedin.com/in/alinaire-cunan-a0b25b411',
     icon: Linkedin,
+  },
+  {
+    label: '+63 991 9500 285',
+    href: 'tel:+639919500285',
+    icon: PhoneCall,
+  },
+  {
+    label: '+63 985 0631 170',
+    href: 'tel:+639850631170',
+    icon: PhoneCall,
   },
 ];
 
