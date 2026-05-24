@@ -481,7 +481,7 @@ export default function Body() {
         <div className="absolute inset-x-0 top-0 h-96 bg-[radial-gradient(circle_at_top,rgba(255,255,255,0.16),transparent_70%)]" />
       </div>
 
-      <section id="home" className="mx-auto max-w-7xl px-6 pb-20 pt-0 md:px-10 lg:px-12 lg:pb-24">
+      <section id="home" className="mx-auto max-w-7xl px-6 pb-20 pt-4 md:px-10 md:pt-0 lg:px-12 lg:pb-24">
         <div className="grid gap-12 lg:grid-cols-[1.12fr_0.88fr] lg:items-center">
           <div className="max-w-3xl">
 
