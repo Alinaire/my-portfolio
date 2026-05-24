@@ -109,7 +109,7 @@ function Footer() {
         Portfolio
       </p>
       <p className="mt-3 font-poppins text-[1.2rem] font-semibold tracking-tight text-[var(--text)] sm:text-[1.35rem]">
-        alinairecunan.dev
+        alinaire-p-cunan-portfolio.vercel.app
       </p>
     </div>
   );
